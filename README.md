@@ -1,7 +1,7 @@
 # Jelena's Notes
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Git Cheatsheet](https://docs.google.com/document/d/159Vwi19JGtYvsiimW4KBMaoDU4M7Qk6u3C4NJbFYdKE/edit)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Git Cheatsheet](https://docs.google.com/document/d/159Vwi19JGtYvsiimW4KBMaoDU4M7Qk6u3C4NJbFYdKE/edit)
 
 ## Summary
 
