@@ -4,13 +4,13 @@
 * [Parse CL arguments](https://web.archive.org/web/20160420012028/https://docs.nodejitsu.com/articles/command-line/how-to-parse-command-line-arguments)
 
 ## False
-// All of the following are inherently falsey:
-* False // False is False. Makes sense, right?
-* 0 // 0 is the only falsey Number
-* "" // an empty string is falsey
-* null // a null, or empty value, is falsey.
-* undefined // an object that has not been defined is considered falsey.
-* NaN // Not a Number. You'll learn more about NaN as we go on.
+All of the following are inherently falsey:
+* False - False is False. Makes sense, right?
+* 0 - 0 is the only falsey Number
+* "" - an empty string is falsey
+* null - a null, or empty value, is falsey.
+* undefined - an object that has not been defined is considered falsey.
+* NaN - Not a Number. You'll learn more about NaN as we go on.
 
 
 
