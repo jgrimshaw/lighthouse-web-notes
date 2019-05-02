@@ -15,3 +15,4 @@ All of the following are inherently falsey:
 
 ## callbacks
 * The filter() method creates a new array with all elements that pass the test implemented by the provided function.
+* The map() method creates a new array with the results of calling a provided function on every element in the calling array.
